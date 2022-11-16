@@ -25,7 +25,7 @@
     <slf4j.version>1.7.25</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <logback.version>1.2.3</logback.version>
-    <jackson.verson>2.9.5</jackson.verson>
+    <jackson.verson>2.12.7.1</jackson.verson>
     <fileupload.version>1.3.3</fileupload.version>
   </properties>
 
